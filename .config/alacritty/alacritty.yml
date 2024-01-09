@@ -136,3 +136,14 @@ schemes:
 # Apply the color scheme.
 colors: *gruvbox_material_medium_dark
 
+font:
+  normal:
+    family: IntoneMono Nerd Font
+    style: Regular
+  bold:
+    family: IntoneMono Nerd Font
+    style: Bold
+  italic:
+    family: IntoneMono Nerd Font
+    style: Italic
+
