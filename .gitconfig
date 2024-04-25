@@ -1,0 +1,8 @@
+[user]
+	name = Cory Frenette
+	email = cory@frenette.dev
+	signingkey = 94FE37DB9A5ED41C
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
